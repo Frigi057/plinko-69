@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://plinko-69.vercel.app/sitemap.xml
+Sitemap: https://plinko-69-green.vercel.app/sitemap.xml
